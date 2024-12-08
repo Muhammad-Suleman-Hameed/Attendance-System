@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Environment file
+.env
+
+# Public directory inside middleware
+middleware/public/
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
